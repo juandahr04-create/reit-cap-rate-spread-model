@@ -25,15 +25,15 @@
 
 **All 19 REITs, ranked by FFO-yield spread vs. the 10-Year Treasury:**
 
-![Ranked spread chart](charts/01_ranked_spread.png)
+   ![Ranked spread chart](01_ranked_spread.png)
 
 **Sector averages — and why they can mislead** (note Healthcare's near-zero average, despite containing both the cheapest-looking and richest-looking names in the dataset):
 
-![Sector spread chart](charts/02_sector_spread.png)
+![Sector spread chart](02_sector_spread.png)
 
 **Dividend yield vs. FFO-yield proxy** — points far above the diagonal (VNO, KRC, BXP) retain much more cash than they distribute, consistent with conservative/defensive payout policy during a period of price pressure:
 
-![Scatter chart](charts/03_div_vs_ffo_scatter.png)
+![Scatter chart](03_div_vs_ffo_scatter.png)
 
 ## Methodology
 
