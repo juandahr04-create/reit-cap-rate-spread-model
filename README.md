@@ -124,7 +124,7 @@ Then open `REIT_Cap_Rate_Spread_Model.ipynb` in Google Colab or Jupyter and run 
 ## Author
 
 Juan David — Finance & Economics, University of Memphis | CFA Level I Candidate
-[LinkedIn](www.linkedin.com/in/juan-david-herrera-rojas-475b05281) · [GitHub](https://github.com/juandahr04-create)
+[LinkedIn](https://www.linkedin.com/in/juan-david-herrera-rojas-475b05281) · [GitHub](https://github.com/juandahr04-create)
 
 ---
 *This project is for educational and research purposes only and does not constitute investment advice.*
